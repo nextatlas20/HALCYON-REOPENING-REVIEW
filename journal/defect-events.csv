@@ -1,0 +1,13 @@
+event_id,defect_id,occurred_at,action,exhibit_id,category,due_date,severity,note
+EV-301,DF-201,2130-04-06T09:00:00Z,CLOSE,,,,,Sensor recalibrated and verified
+EV-302,DF-202,2130-04-06T10:00:00Z,RESCHEDULE,,,2130-04-09,,Move ahead for accessibility review
+EV-303,DF-205,2130-04-06T11:00:00Z,OPEN,EX-105,ACCESS,2130-04-07,P1,Lower the tactile-map mounting rail
+EV-304,DF-206,2130-04-07T08:00:00Z,OPEN,EX-101,PROJECTOR,2130-04-15,P2,Correct the horizon blend seam
+EV-305,DF-999,2130-04-07T09:00:00Z,CLOSE,,,,,Reported repaired by floor team
+EV-306,DF-207,2130-04-07T10:00:00Z,OPEN,EX-103,SEATING,2130-04-14,P3,Replace torn seat marker
+EV-306,DF-208,2130-04-07T10:30:00Z,OPEN,EX-104,SIGNAGE,2130-04-14,P3,Align exit placard
+EV-308,DF-209,2130-04-11T00:00:00Z,OPEN,EX-102,DISPLAY,2130-04-16,P2,Future entry beyond cutoff
+EV-309,DF-204,2130-04-08T12:00:00Z,RESCHEDULE,,,2130-04-09,,Bring forward before lighting focus
+EV-310,DF-203,2130-04-09T14:00:00Z,CLOSE,,,,,Speaker harness replaced
+EV-311,DF-202,2130-04-09T15:00:00Z,OPEN,EX-103,AUDIO,2130-04-18,P2,Duplicate active defect attempt
+EV-312,DF-210,2130-04-09 16:00:00Z,OPEN,EX-105,ACCESS,2130-04-18,P2,Timestamp is not canonical

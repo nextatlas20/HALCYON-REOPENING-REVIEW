@@ -1,0 +1,5 @@
+defect_id,exhibit_id,category,due_date,severity,note
+DF-201,EX-101,SENSOR,2130-04-10,P1,Intermittent proximity trigger
+DF-202,EX-102,CAPTION,2130-04-12,P2,Braille strip omits orbit scale
+DF-203,EX-103,AUDIO,2130-04-08,P1,Rear speaker channel silent
+DF-204,EX-104,LIGHTING,2130-04-20,P3,Edge wash flickers after warmup
