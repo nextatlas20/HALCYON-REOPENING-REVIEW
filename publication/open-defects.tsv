@@ -1,0 +1,5 @@
+defect_id	exhibit_id	exhibit_name	zone	category	due_date	severity	note	state
+DF-205	EX-105	Comet Workshop	West	ACCESS	2130-04-07	P1	Lower the tactile-map mounting rail	OVERDUE
+DF-202	EX-102	Lunar Cartography	East	CAPTION	2130-04-09	P2	Braille strip omits orbit scale	OVERDUE
+DF-206	EX-101	Aurora Tunnel	North	PROJECTOR	2130-04-15	P2	Correct the horizon blend seam	UPCOMING
+DF-204	EX-104	Solar Loom	South	LIGHTING	2130-04-09	P3	Edge wash flickers after warmup	OVERDUE
