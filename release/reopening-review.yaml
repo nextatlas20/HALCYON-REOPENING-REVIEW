@@ -1,0 +1,10 @@
+cutoff: "2130-04-10T23:59:59Z"
+registered_exhibits: 5
+baseline_defects: 4
+valid_events: 8
+open_defects: 4
+overdue: 3
+due_today: 0
+upcoming: 1
+closed: 2
+ignored_transitions: 2
